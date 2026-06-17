@@ -42,16 +42,16 @@ Fonte: [Kaggle](https://www.kaggle.com/datasets/rishitaverma02/house-prices-adva
 ### 3. Aprendizagem Supervisionada: Regressão
 | Modelo | RMSE | R² |
 |---|---|---|
-| Regressão Linear | ~ | ~ |
-| Árvore de Decisão | ~ | ~ |
+| Regressão Linear | R$ 38.240 | 0.8094 |
+| Árvore de Decisão | R$ 37.008 | 0.8214 |
 
 ### 4. Aprendizagem Supervisionada: Classificação
 > `SalePrice` convertido em variável binária (acima/abaixo da mediana)
 
 | Modelo | Acurácia | F1-Score |
 |---|---|---|
-| Regressão Logística | ~ | ~ |
-| Random Forest | ~ | ~ |
+| Regressão Logística | 93.84% | 0.93 |
+| Random Forest | 94.18% | 0.94 |
 
 ### 5. Aprendizagem Não Supervisionada
 - **K-Means**: agrupamento de imóveis por características semelhantes (método do cotovelo para escolha do K)
