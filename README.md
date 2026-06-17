@@ -1,6 +1,6 @@
 # Analisando Dados de Preços de Casas nos Estados Unidos
 
-Desenvolvido por **[Gabriely Barbosa da Silva Azevedo e Guilherme dos Santos Gonçalves Bispo]**
+Desenvolvido por **Gabriely Barbosa da Silva Azevedo e Guilherme dos Santos Gonçalves Bispo**
 
 ---
 
