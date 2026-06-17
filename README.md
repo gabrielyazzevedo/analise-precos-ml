@@ -1,4 +1,4 @@
-# House Prices: Análise de Dados e Machine Learning
+# Analisando Dados de Preços de Casas nos Estados Unidos
 
 Desenvolvido por **[Gabriely Barbosa da Silva Azevedo e Guilherme dos Santos Gonçalves Bispo]**
 
